@@ -812,7 +812,7 @@ nav {
         width: 20.1875rem;
         height: 20.1875rem;
         margin-bottom: 3.625rem;
-        background: url("../img/content/Ellipse 5.png") center center/contain no-repeat; } }
+        background: url("img/content/Ellipse 5.png") center center/contain no-repeat; } }
     @media screen and (max-width: 768px) and (max-width: 768px) {
       .hero__title-section::before {
         width: 21.5625rem;
