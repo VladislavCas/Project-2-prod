@@ -1028,7 +1028,7 @@ nav {
       padding: 0;
       margin-bottom: 1.5625rem; } }
   .benefits__item:before {
-    content: url("../img/icon/dots.svg");
+    content: url("img/icon/dots.svg");
     position: absolute;
     top: 3.125rem;
     right: 0;
@@ -1526,7 +1526,7 @@ address {
       top: 56.625rem; } }
 
 .section.benefits::after {
-  content: url("../img/icon/Vector 2.svg");
+  content: url("img/icon/Vector 2.svg");
   position: absolute;
   left: 2.875rem;
   top: 46.375rem; }
@@ -2176,7 +2176,7 @@ address {
   margin-top: -5px; }
 
 .products-menu-section {
-  background: url(../img/background/bkg-acc.png) center center/cover no-repeat;
+  background: url(img/background/bkg-acc.png) center center/cover no-repeat;
   position: relative;
   color: white; }
 
