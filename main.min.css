@@ -834,7 +834,7 @@ nav {
   justify-content: space-between;
   height: 100%;
   padding: 1.3125rem 0 2.8125rem;
-  background: url("../img/content/Ellipse 5.png") right/54% auto no-repeat; }
+  background: url("img/content/Ellipse 5.png") right/54% auto no-repeat; }
   @media screen and (max-width: 768px) {
     .hero__container {
       background: none; } }
